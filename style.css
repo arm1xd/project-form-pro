@@ -1,0 +1,36 @@
+.knop {
+    width:1160px;
+}
+.FOFO{
+    width: 500px;
+}
+.lolo{
+    
+}
+.bobo{
+    width: 1160px;
+}
+.pipi{
+    margin-bottom: 100px;
+}
+.didi {
+ 
+    background: rgb(214, 214, 214);
+    border:black solid 1px;
+    width: 1160px;
+    height: 400px;
+    
+    
+}
+.gigi {
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+label {
+    border: red 1px solid;
+    background:blue;
+    border-radius: 50px;
+    margin-left: 200px;
+}
